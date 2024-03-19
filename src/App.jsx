@@ -9,8 +9,8 @@ import { ContactUs } from "./Pages/ContactUs";
 
 function App() {
   return (
-    <Router>
-      <Routes basename={"/designo/"}>
+    <Router basename={"/designo/"}>
+      <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/web-design" element={<WebDesign />} />
         <Route path="/app-design" element={<AppDesign />} />
