@@ -19,7 +19,7 @@ export const Hero = () => {
             fully responsive websites, app design, and engaging brand
             experiences. Find out more about our services.
           </p>
-          <button className="hover:text-white hover:bg-secondary uppercase h-[56px] w-[152px] tracking-[1px] text-[15px] font-medium text-black bg-white rounded-[8px] ">
+          <button className="hover:text-white hover:bg-secondary uppercase h-[56px] w-[152px] tracking-[1px] text-[15px] font-medium text-black bg-white rounded-[8.1px] ">
             learn more
           </button>
         </div>
