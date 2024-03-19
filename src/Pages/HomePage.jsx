@@ -1,4 +1,3 @@
-import React from "react";
 import { Hero } from "../Components/HomeCompo/Hero";
 import { Features } from "../Components/HomeCompo/Features";
 import { Footer } from "../Components/Footer";
