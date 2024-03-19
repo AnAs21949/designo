@@ -1,0 +1,4 @@
+.hover-container:hover h1,
+.hover-container:hover p {
+  color: white;
+}
