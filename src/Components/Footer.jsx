@@ -75,9 +75,11 @@ export const Footer = () => {
               how our expertise can help your business grow.
             </p>
           </div>
-          <button className="text-[15px] rounded-md tracking-[1px] hover:text-white hover:bg-secondary font-medium text-[#333136] p-4 bg-white">
-            GET IN TOUCH
-          </button>
+          <Link to="/contact-us">
+            <button className="text-[15px] rounded-md tracking-[1px] hover:text-white hover:bg-secondary font-medium text-[#333136] p-4 bg-white">
+              GET IN TOUCH
+            </button>
+          </Link>
         </div>
       </div>
     </footer>
