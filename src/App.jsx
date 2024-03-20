@@ -1,5 +1,5 @@
 import { HomePage } from "./Pages/HomePage";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import { WebDesign } from "./Pages/WebDesign";
 import { AppDesign } from "./Pages/AppDesign";
 import { GraphicDesign } from "./Pages/GraphicDesign";
