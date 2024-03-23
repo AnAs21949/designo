@@ -7,7 +7,7 @@ import imageRealDealDesk from "../../assets/about/desktop/image-real-deal.jpg";
 
 export const Deal = () => {
   return (
-    <section className="font-jost flex flex-col lg:flex-row-reverse mb-96 mt-20 md:px-[48px] lg:px-[92px]">
+    <section className="font-jost flex flex-col lg:ml-10 lg:flex-row-reverse mb-96 mt-20 md:px-[48px] lg:px-[92px]">
       <img src={imageRealDeal} className="w-full md:hidden" alt="" />
       <img
         src={imageRealDealTab}

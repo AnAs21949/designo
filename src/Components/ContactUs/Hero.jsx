@@ -59,7 +59,7 @@ export const Hero = () => {
   const handleOnClose = () => setActive(false);
 
   return (
-    <section className="bg-primary lg:flex-row lg:gap-40 lg:mx-[92px] relative overflow-hidden md:rounded-2xl px-[48px] lg:px-[80px] md:mx-[48px] font-jost text-white flex flex-col items-center gap-7 py-20 ">
+    <section className="bg-primary lg:flex-row lg:gap-40 lg:ml-36 lg:mx-[92px] relative overflow-hidden md:rounded-2xl px-[48px] lg:px-[80px] md:mx-[48px] font-jost text-white flex flex-col items-center gap-7 py-20 ">
       <img
         src={bg}
         className="absolute top-20 -left-20 max-w-none md:hidden"

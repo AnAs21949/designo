@@ -3,7 +3,7 @@ import bgPattern from "../../assets/shared/mobile/bg-pattern-design-pages-intro-
 
 export const Hero = () => {
   return (
-    <section className="md:rounded-lg  lg:mx-[105px]   md:mx-[48px] relative bg-[#E7816B] font-jost overflow-hidden pb-[17rem] lg:pb-0 md:pb-[50%]">
+    <section className="md:rounded-lg  lg:mx-[105px] lg:ml-36 md:mx-[48px] relative bg-[#E7816B] font-jost overflow-hidden pb-[17rem] lg:pb-0 md:pb-[50%]">
       <img
         src={bgPattern}
         className="absolute top-24 left-0 w-[640px] lg:hidden"

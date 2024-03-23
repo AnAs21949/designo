@@ -13,7 +13,7 @@ export const NavBar = () => {
 
   return (
     <nav className="w-full lg:px-[92px] h-[96px] flex items-center justify-between md:pr-[48px]">
-      <div className=" flex fixed md:static md:w-fit bg-white z-40 w-full  items-center justify-between px-[48px] py-[40px] md:py-0">
+      <div className=" flex fixed lg:items-start md:static md:w-fit bg-white z-40 w-full  items-center justify-between px-[48px] py-[40px] md:py-0">
         <Link to="/">
           <img src={logo} className="w-[202px]" alt="" />
         </Link>

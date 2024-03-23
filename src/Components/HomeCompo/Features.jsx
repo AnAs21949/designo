@@ -44,8 +44,8 @@ export const Features = () => {
                 alt=""
               />
             </div>
-            <div className="absolute items-center flex flex-col top-[35%] lg:top-[0%] lg:left-[0%] left-[18%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
-              <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[50vh]">
+            <div className="absolute items-center flex flex-col top-[35%] lg:-top-[0%] lg:left-[0%] left-[18%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
+              <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[35vh]">
                 WEB DESIGN
               </p>
               <div className="flex mt-2 items-center gap-4">
@@ -57,6 +57,7 @@ export const Features = () => {
             </div>
           </div>
         </Link>
+
         {/* web design */}
         <div className=" flex flex-col items-center gap-5">
           <Link to="/app-design">
@@ -79,7 +80,7 @@ export const Features = () => {
                 />
               </div>
               <div className="absolute items-center flex flex-col top-[35%] lg:top-[0%] lg:left-[0%] left-[18%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
-                <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[20vh]">
+                <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[15vh]">
                   APP DESIGN
                 </p>
                 <div className="flex mt-2 items-center gap-4">
@@ -91,6 +92,7 @@ export const Features = () => {
               </div>
             </div>
           </Link>
+
           <Link to="graphic-design">
             <div className="relative cursor-pointer">
               <div className="after:absolute  after:h-full after:w-full after:top-0 after:left-0 after:bottom-0 after:bg-[#0009] hover:after:bg-[#e7826ba4] after:rounded-2xl after:z-50]">
@@ -110,8 +112,8 @@ export const Features = () => {
                   alt=""
                 />
               </div>
-              <div className="absolute items-center flex flex-col top-[35%] lg:top-[0%] lg:left-[0%] left-[18%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
-                <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[20vh]">
+              <div className="absolute items-center flex flex-col top-[35%] lg:top-[0%] lg:left-[0%] left-[10%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
+                <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[14vh]">
                   GRAPHIC DESIGN
                 </p>
                 <div className="flex mt-2 items-center gap-4">

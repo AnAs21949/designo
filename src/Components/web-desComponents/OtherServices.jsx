@@ -24,7 +24,7 @@ export const OtherServices = () => {
             <img src={appDes} className="rounded-2xl hidden lg:block" alt="" />
           </div>
           <div className="absolute items-center flex flex-col top-[35%] lg:top-[0%] lg:left-[0%] left-[18%] md:left-[36%] text-white lg:hover:bg-[#e7826ba4] lg:w-full lg:h-full">
-            <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[20vh]">
+            <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[13vh]">
               APP DESIGN
             </p>
             <div className="flex mt-2 items-center gap-4">
@@ -56,8 +56,8 @@ export const OtherServices = () => {
               alt=""
             />
           </div>
-          <div className="absolute top-[35%] left-[10%] md:left-[33%] items-center flex flex-col text-white lg:left-0 lg:top-0 hover:bg-[#e7826ba4] lg:h-full w-full">
-            <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[20vh] ">
+          <div className="absolute top-[35%] left-[1%] md:left-[0%]  items-center flex flex-col text-white lg:left-0 lg:top-0 lg:hover:bg-[#e7826ba4] lg:h-full w-full">
+            <p className="font-jost text-[28px] leading-[36px] font-medium tracking-[1.4px] lg:mt-[13vh] ">
               GRAPHIC DESIGN
             </p>
             <div className="flex mt-2 items-center gap-4">

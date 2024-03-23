@@ -11,7 +11,7 @@ import imageWorldClassTalentDesk from "../../assets/about/desktop/image-world-cl
 
 export const Hero = () => {
   return (
-    <section className="font-jost flex lg:px-[92px]   flex-col gap-20 md:px-[48px] ">
+    <section className="font-jost flex lg:px-[92px] lg:ml-10  flex-col gap-20 md:px-[48px] ">
       <div className="flex flex-col lg:flex-row-reverse ">
         <img src={imageAboutHero} className="w-full md:hidden " alt="" />
         <img
